@@ -1,7 +1,7 @@
 ---
-name: asdf
-about: asdf
-title: ''
+name: improvement suggestion
+about: title.
+title: "[Suggestion]:"
 labels: ''
 assignees: ''
 
